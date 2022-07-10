@@ -27,7 +27,7 @@ h2 {
 	padding: 25px;
 	padding-left: 50px;
 	margin: 30px;
-	margin-right: 250px;
+	margin-right: 430px;
 	background-image: url(images/star.png);
 	background-repeat: no-repeat;
 	background-position: top left;
@@ -43,6 +43,7 @@ h2 {
 	background: url(images/cocktail.png) repeat-x;
 
 	line-height: 1;
+	float: right;
 }
 
 #elixirs h2 {
